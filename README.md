@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Dauemi
 - 👀 I’m interested in ... leaning how to code 
-- 🌱 I’m currently learning taking a course on website developing
+- 🌱 I’m currently learning about  website developing
 - 💞️ I’m looking to collaborate on open source project
 - 📫 How to reach me via email burutoluroy@gmail.com
 
